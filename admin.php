@@ -2,4 +2,5 @@
  connection_status()
  pfsockopen()
  ArrayAccess
+ header()
 ?>
